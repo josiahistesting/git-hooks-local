@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Pre-rebase hook is running..."
+exit 1
